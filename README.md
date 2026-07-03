@@ -1,16 +1,32 @@
-## Hi there 👋
+# UnrruhBande
 
-<!--
-**UnrruhBande/UnrruhBande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entwicklung von Discord-Bots, Automationssystemen und modularen Community-Tools.
 
-Here are some ideas to get you started:
+## Hauptprojekt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dc4A
+
+Dc4A ist ein größeres Discord-Bot-System mit mehreren Modulen und Erweiterungen.
+
+Geplante und bestehende Bereiche:
+
+- GlobalChat
+- Dc4A Connect als Global-Chat-/Serververbindungsmodul
+- Serververwaltung
+- Server-Sperren
+- Ankündigungssysteme
+- Wartungsfunktionen
+- Logging und Administration
+- spätere Dashboard- und Panel-Funktionen
+
+## Technik
+
+- JavaScript / Node.js
+- discord.js v14
+- Firebase / Firestore
+- Git / GitHub
+- modulare Bot-Architektur
+
+## Fokus
+
+Aufbau eines erweiterbaren Discord-Bot-Systems mit sauberer Struktur, Versionierung und langfristiger Weiterentwicklung.
